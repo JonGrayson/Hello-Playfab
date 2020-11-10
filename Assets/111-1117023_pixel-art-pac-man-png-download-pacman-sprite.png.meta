@@ -1,0 +1,514 @@
+fileFormatVersion: 2
+guid: 282744874570fe7499f6e1964d65a4b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1232979699198526660
+    second: 111-1117023_pixel-art-pac-man-png-download-pacman-sprite_0
+  - first:
+      213: -4616281800827682388
+    second: 111-1117023_pixel-art-pac-man-png-download-pacman-sprite_1
+  - first:
+      213: 2246806623431748064
+    second: 111-1117023_pixel-art-pac-man-png-download-pacman-sprite_2
+  - first:
+      213: 2799136551845148063
+    second: 111-1117023_pixel-art-pac-man-png-download-pacman-sprite_3
+  - first:
+      213: -181990645428934297
+    second: 111-1117023_pixel-art-pac-man-png-download-pacman-sprite_4
+  - first:
+      213: -471990655659687568
+    second: 111-1117023_pixel-art-pac-man-png-download-pacman-sprite_5
+  - first:
+      213: -4525584035676261650
+    second: 111-1117023_pixel-art-pac-man-png-download-pacman-sprite_6
+  - first:
+      213: 3094959374279285172
+    second: 111-1117023_pixel-art-pac-man-png-download-pacman-sprite_7
+  - first:
+      213: 1287971990125523309
+    second: 111-1117023_pixel-art-pac-man-png-download-pacman-sprite_8
+  - first:
+      213: -7396015505743361152
+    second: 111-1117023_pixel-art-pac-man-png-download-pacman-sprite_9
+  - first:
+      213: -1106984658224682874
+    second: 111-1117023_pixel-art-pac-man-png-download-pacman-sprite_10
+  - first:
+      213: -2223339589380385553
+    second: 111-1117023_pixel-art-pac-man-png-download-pacman-sprite_11
+  - first:
+      213: -353075601670508232
+    second: 111-1117023_pixel-art-pac-man-png-download-pacman-sprite_12
+  - first:
+      213: 4792036576314013182
+    second: 111-1117023_pixel-art-pac-man-png-download-pacman-sprite_13
+  - first:
+      213: 8840843394375134363
+    second: 111-1117023_pixel-art-pac-man-png-download-pacman-sprite_14
+  - first:
+      213: 8310941583262262030
+    second: 111-1117023_pixel-art-pac-man-png-download-pacman-sprite_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 111-1117023_pixel-art-pac-man-png-download-pacman-sprite_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 230
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c40ff9f08c6c1110800000000000000
+      internalID: 1232979699198526660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 111-1117023_pixel-art-pac-man-png-download-pacman-sprite_1
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 230
+        width: 145
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1c096092cafefb0800000000000000
+      internalID: -4616281800827682388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 111-1117023_pixel-art-pac-man-png-download-pacman-sprite_2
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 230
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9e4ac48b24e2f10800000000000000
+      internalID: 2246806623431748064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 111-1117023_pixel-art-pac-man-png-download-pacman-sprite_3
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 230
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95ba8a0dd788d620800000000000000
+      internalID: 2799136551845148063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 111-1117023_pixel-art-pac-man-png-download-pacman-sprite_4
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 230
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769a3c2e870797df0800000000000000
+      internalID: -181990645428934297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 111-1117023_pixel-art-pac-man-png-download-pacman-sprite_5
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 363
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071c918dff62379f0800000000000000
+      internalID: -471990655659687568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 111-1117023_pixel-art-pac-man-png-download-pacman-sprite_6
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 189
+        width: 144
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee276501c45e131c0800000000000000
+      internalID: -4525584035676261650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 111-1117023_pixel-art-pac-man-png-download-pacman-sprite_7
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 46
+        width: 93
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b99e22372183fa20800000000000000
+      internalID: 3094959374279285172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 111-1117023_pixel-art-pac-man-png-download-pacman-sprite_8
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 46
+        width: 123
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61b51873bbcfd110800000000000000
+      internalID: 1287971990125523309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 111-1117023_pixel-art-pac-man-png-download-pacman-sprite_9
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 46
+        width: 134
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08bc2e255131c5990800000000000000
+      internalID: -7396015505743361152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 111-1117023_pixel-art-pac-man-png-download-pacman-sprite_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 148
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688e5b2815333a0f0800000000000000
+      internalID: -1106984658224682874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 111-1117023_pixel-art-pac-man-png-download-pacman-sprite_11
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 149
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe45be75c6c1521e0800000000000000
+      internalID: -2223339589380385553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 111-1117023_pixel-art-pac-man-png-download-pacman-sprite_12
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 149
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83172976c9f991bf0800000000000000
+      internalID: -353075601670508232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 111-1117023_pixel-art-pac-man-png-download-pacman-sprite_13
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 148
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef530e970ebb08240800000000000000
+      internalID: 4792036576314013182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 111-1117023_pixel-art-pac-man-png-download-pacman-sprite_14
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 87
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ca694f93cf0ba70800000000000000
+      internalID: 8840843394375134363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 111-1117023_pixel-art-pac-man-png-download-pacman-sprite_15
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 26
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03ae533655665370800000000000000
+      internalID: 8310941583262262030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: bdce92b5fc4462f4b89ddf8386ca1c95
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
